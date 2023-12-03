@@ -1,0 +1,3 @@
+sudo wget https://raw.githubusercontent.com/lerndevops/labs/master/scripts/installGit.sh -P /tmp
+sudo chmod 755 /tmp/installGit.sh
+sudo bash /tmp/installGit.sh
