@@ -1,0 +1,4 @@
+Install Git On - CentOS / Fedora / RedHat / amzn Linux
+sudo yum install yum-utils
+sudo yum update
+sudo yum install git
