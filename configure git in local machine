@@ -1,0 +1,12 @@
+git config user.email "raghulyogeshwar716@gmail.com
+git config user.name "Raghul716"
+git config --list
+
+
+
+git init     #to initialize the git repository cd to the directory where you want to store the code and run this command
+example 
+cd /home/user
+mkdir testrepository
+cd testrepository
+git init 
