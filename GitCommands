@@ -1,0 +1,10 @@
+  223  git status
+  224  git add v1.txt
+  225  git status
+  226  git commit -m "testCommit1"
+  227  git show
+  228  vi v1.txt
+  229  git show
+  230  cat v1.txt
+  231  git status
+  232  git diff
