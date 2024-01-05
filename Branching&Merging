@@ -16,5 +16,20 @@ integrate it with the rest of the project. This is where the git
 merge command comes in
 
 
+GIT REVERT AND RESET
 
+git revert:
+The git revert command is used to create a new commit that undoes the changes made by a previous commit. 
+It's a safe way to undo changes because it creates a new commit that effectively cancels out the changes introduced by a specific commit.
+
+git revert abcdef123
+
+git reset:
+The git reset command is more powerful and can be used to reset the current branch's HEAD to a specific commit. 
+Depending on the mode used {Hard or Soft}, it can either keep changes in the working directory or discard them entirely.
+
+
+git diff          #to compare Working directory & Staging area
+
+git diff commitid1 commitid2    # to compare two commits
 
