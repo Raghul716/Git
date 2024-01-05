@@ -3,4 +3,7 @@ First set uo a authentication token for personal access of the git repository yo
 Create a SSH key in the local machine 
 ssh-keygen -t ed25519 -C "raghulyogeshwar716@gmail.com"
 cat  /root/.ssh/id_ed25519.pub
-copy the contents from /root/.ssh/id_ed25519.pub and paste in the 
+copy the contents from /root/.ssh/id_ed25519.pub and paste in the remote git ssh addkey section
+now test connection using
+ssh -T git@github.com
+
