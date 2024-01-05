@@ -2,3 +2,5 @@ Find list of codes
 git branch        #to view branches
 git branch develop     #to create branch named develop
 git switch develop      #to switch to branch develop
+git push origin develop      #to see new created branch in git remote repository
+
