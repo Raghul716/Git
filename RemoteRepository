@@ -11,6 +11,10 @@ And now add the remote repostory in your local machine
 git remote add origin git@github.com:Raghul716/Practice.git
 Test it by
 git remote -v
+Now Clone your remote repository in your local machine
+git clone git@github.com:Raghul716/Practice.git
+
+
 
 
 
