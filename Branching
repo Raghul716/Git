@@ -1,0 +1,4 @@
+Find list of codes
+git branch        #to view branches
+git branch develop     #to create branch named develop
+git switch develop      #to switch to branch develop
