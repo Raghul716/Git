@@ -7,5 +7,14 @@ git push origin develop      #to see new created branch and its contents in git 
 In remote repository contents of develop will now show in main branch
 you can create a pull request to merge contents of "develop" into the main branch
 
+MERGING
+
+Isolating features into different branches is a crucial practice for any serious
+developer.
+ At some point, a piece of code will reach a state where you'll want to
+integrate it with the rest of the project. This is where the git
+merge command comes in
+
+
 
 
