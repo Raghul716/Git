@@ -2,5 +2,10 @@ Find list of codes
 git branch        #to view branches
 git branch develop     #to create branch named develop
 git switch develop      #to switch to branch develop
-git push origin develop      #to see new created branch in git remote repository
+Create a file say "Test1 and commit changes
+git push origin develop      #to see new created branch and its contents in git remote repository
+In remote repository contents of develop will now show in main branch
+you can create a pull request to merge contents of "develop" into the main branch
+
+
 
